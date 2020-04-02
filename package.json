@@ -1,0 +1,26 @@
+{
+  "name": "chattykathy",
+  "version": "1.0.0",
+  "description": "Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamallnighter/chatapp.git"
+  },
+  "author": "Chris Connelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamallnighter/chatapp/issues"
+  },
+  "homepage": "https://github.com/teamallnighter/chatapp#readme"
+}
